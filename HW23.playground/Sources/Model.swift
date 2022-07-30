@@ -69,6 +69,6 @@ public struct Card: Decodable {
             }
         }
 
-        print("--------------------------\n")
+        print("\n\n")
     }
 }
